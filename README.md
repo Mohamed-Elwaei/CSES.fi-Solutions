@@ -1,2 +1,2 @@
 # CSES.fi-Solutions
-Solutions of all problems I have solved in CSES.fi
+This repository contains the solutions of all the problems I have solved on CSES.fi. The CSES Problem Set is a collection of algorithmic programming problems. You can read more about the website [here](https://cses.fi/problemset/text/2433). The [competitive programming handbook](https://cses.fi/book/book.pdf) is the main source I studied from to solve these problems. [the guide to competitive programming](https://link.springer.com/book/10.1007/978-3-031-61794-2) is another book that was mostly similar, and also useful.
